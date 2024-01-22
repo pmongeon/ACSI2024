@@ -49,7 +49,7 @@ Pour participer au Forum, veuillez remplir le formulaire de soumission suivant: 
 <strong>Prix étudiant-à-ACSI/CAIS et meilleur article rédigé par un praticien</strong> : les propositions d'articles rédigés par des étudiants diplômés et des praticiens seront prises en considération pour ces prix. Le prix Étudiant-à-ACSI/CAIS comprend un prix monétaire. Les deux lauréats auront l’occasion de publier le manuscrit complet dans la Revue canadienne des sciences de l’information et de bibliothéconomie / Canadian Journal of Information and Library Science. Afin d'être pris en considération pour ces prix, veuillez indiquer si vous êtes un étudiant ou un praticien lors de la soumission de votre proposition. Les gagnants seront sélectionnés sur la base de leurs résumés étendus. Les détails du prix, y compris les lauréats précédents, peuvent être consultés sur le site Web du ACSI/CAIS à www.cais-acsi.ca.
 
 <strong>Dates importantes</strong> :
-La date limite de soumission pour toutes les propositions est le 22 janvier 2024, minuit, heure du Pacifique. Les soumissions initiales doivent être débarrassées des informations d’identification pour un examen par les pairs en double aveugle.
+La <strong>nouvelle</strong> date limite de soumission pour toutes les propositions est le <strong>5 février 2024, minuit, heure du Pacifique</strong>. Les soumissions initiales doivent être débarrassées des informations d’identification pour un examen par les pairs en double aveugle.
 
 Les auteurs seront informés au plus tard le 15 mars 2024. Les versions finales devront être soumises au plus tard le 30 avril 2024 et seront ensuite publiées sur le site Internet du congrès et dans les actes du congrès. 
 
