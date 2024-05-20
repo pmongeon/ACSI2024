@@ -31,7 +31,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   <tr>
     <th colspan=2 style="width:20%">Séance</th>
     <th colspan=2 style="width:20%">Heure (HAE)</th>
-    <th colspan=2 style="width:60%"><a href="https://westernuniversity.zoom.us/j/91531028175">Presentation</a></th>
+    <th colspan=2 style="width:60%"><a href="https://westernuniversity.zoom.us/j/91531028175">Évènement</a></th>
   </tr>
   <tr>
     <td colspan=2>BIENVENUE et PRIX ACSI/CAIS</td>
