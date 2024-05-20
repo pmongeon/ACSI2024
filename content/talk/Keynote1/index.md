@@ -1,11 +1,11 @@
 ---
-title: "TBD"
-event: CAIS2024
+title: "À annoncer"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "TBD"
+abstract: "À annoncer"
 
 date: "2024-06-04T11:15:00Z"
 date_end: "2024-06-04T12:45:00Z"

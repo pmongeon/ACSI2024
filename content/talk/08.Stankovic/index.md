@@ -1,11 +1,11 @@
 ---
-title: "An Evaluation of OpenAlex Level 0 - Art"
-event: CAIS2024
+title: "Une évaluation d'OpenAlex niveau 0 - Art"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "OpenAlex is an online repository using an automated classification system. Our findings suggest that the system has significant hierarchical and semantic shortcomings identified through a mixed-method research approach. This approach utilized qualitative and quantitative research methods to provide a holistic evaluation of the system, gauging its effectiveness in indexing papers. Moreover, we provide key insights into how improvements can be made to render OpenAlex an effective and usable classification system."
+abstract: "OpenAlex est un référentiel en ligne utilisant un système de classification automatisé. Nos résultats suggèrent que le système présente d’importantes lacunes hiérarchiques et sémantiques identifiées grâce à une approche de recherche à méthodes mixtes. Cette approche a utilisé des méthodes de recherche qualitatives et quantitatives pour fournir une évaluation globale du système, mesurant son efficacité dans l'indexation des articles. De plus, nous fournissons des informations clés sur la manière dont des améliorations peuvent être apportées pour faire d'OpenAlex un système de classification efficace et utilisable."
 
 date: "2024-06-04T17:10:00Z"
 date_end: "2024-06-04T17:20:00Z"

@@ -1,11 +1,11 @@
 ---
-title: "Tripping Over Open-mindedness in Information Literacy Entanglements: A Theoretical Shift"
-event: CAIS2024
+title: "Trébucher sur l'ouverture d'esprit dans les enchevêtrements de la maîtrise de l'information : un changement théorique"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "With growing interest in the relationship between information literacy and intellectual virtue, the time is ripe for a closer look at open-mindedness. A traditional approach to the trait offers a limited perspective and does not fit well with a socio-cultural approach to information literacy. This presentation explores intra-active open-mindedness as an alternative account that lifts the trait out of the individual and places it in conversation with a socio-cultural approach."
+abstract: "Avec l’intérêt croissant porté à la relation entre la maîtrise de l’information et la vertu intellectuelle, le moment est venu d’examiner de plus près l’ouverture d’esprit. Une approche traditionnelle du trait offre une perspective limitée et ne s’intègre pas bien avec une approche socioculturelle de la maîtrise de l’information. Cette présentation explore l'ouverture d'esprit intra-active comme un récit alternatif qui extrait le trait de l'individu et le met en conversation avec une approche socioculturelle."
 
 date: "2024-06-05T11:00:00Z"
 date_end: "2024-06-05T11:10:00Z"

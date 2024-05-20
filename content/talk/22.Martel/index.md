@@ -1,6 +1,6 @@
 ---
-title: "Engagement of public and school libraries: Multiple case studies in community literacy"
-event: CAIS2024
+title: "Engagement des bibliothèques publiques et scolaires : Étude de cas multiples en littératie communautaire"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"

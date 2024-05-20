@@ -1,11 +1,11 @@
 ---
-title: "Leap or Stumble? A Study of Library Paraprofessionals Holding or Pursuing the MLIS Degree and their Liminal Labour"
-event: CAIS2024
+title: "Un sauter ou un trébuchement ? Une étude sur les paraprofessionnels des bibliothèques détenant ou poursuivant le diplôme MLIS et leur travail liminal"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "The phenomenon of underemployment of MLIS-degree holding paraprofessionals has not been seriously undertaken as a matter of research concern, except for a few mentions over the past half-century. This study reports on the partial findings of a survey of Canadian and American paraprofessionals who hold a graduate degree in LIS. This report seeks to explore whether a paraprofessional role can be considered a “stepping stone” to a professional role."
+abstract: "Le phénomène du sous-emploi des paraprofessionnels titulaires d'un diplôme MLIS n'a pas été sérieusement étudié en tant que sujet de recherche, à l'exception de quelques mentions au cours du dernier demi-siècle. Cette étude rend compte des résultats partiels d'une enquête auprès de paraprofessionnels canadiens et américains titulaires d'un diplôme d'études supérieures en BSI. Ce rapport cherche à déterminer si un rôle paraprofessionnel peut être considéré comme un « tremplin » vers un rôle professionnel."
 
 date: "2024-06-05T15:30:00Z"
 date_end: "2024-06-05T16:00:00Z"

@@ -1,11 +1,11 @@
 ---
-title: "From Quantum Leaps to Stumbles: Unveiling the Journey of Academic Inquiry of Library and Information Science Researchers in Africa"
-event: CAIS2024
+title: "Des bonds quantiques aux trébuchements : dévoiler le parcours de recherche académique des chercheurs en bibliothéconomie et en sciences de l'information en Afrique"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "The field of Library and Information Science (LIS) has experienced a dynamic evolution over the years, marked by both notable advancements and challenges. In the context of Africa, the journey of academic inquiry in LIS has been a fascinating exploration of quantum leaps and inevitable stumbles. This paper endeavors to shed light on the intricate narrative that encapsulates the academic pursuit of knowledge in the realm of Library and Information Science within the African continent."
+abstract: "Le domaine des bibliothèques et des sciences de l'information (LIS) a connu une évolution dynamique au fil des années, marquée à la fois par des avancées et des défis notables. Dans le contexte africain, le parcours de la recherche universitaire en LIS a été une exploration fascinante de progrès quantiques et d’inévitables trébuchements. Cet article s’efforce de faire la lumière sur le récit complexe qui résume la quête académique du savoir dans le domaine des bibliothèques et des sciences de l’information sur le continent africain."
 
 date: "2024-06-05T12:20:00Z"
 date_end: "2024-06-05T12:30:00Z"

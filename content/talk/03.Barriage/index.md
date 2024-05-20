@@ -1,11 +1,11 @@
 ---
-title: "Drag Storytimes and Bibliographic Invisibility: A Comparative Analysis of Picture Book Subject Metadata"
-event: CAIS2024
+title: "Heures du conte Drag et invisibilité bibliographique : une analyse comparative des métadonnées sur les sujets des livres d'images"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "Drag storytimes are one type of programming that public libraries offer to address the marginalization of LGBTQIA+ children and families in library spaces. The books read during these storytimes often feature LGBTQIA+ characters and themes. In this work in progress, we will compare the subject metadata assigned within the Library of Congress Catalog and the social cataloging platform LibraryThing to a corpus of picture books read during drag storytimes. We will consider the limitations of using traditional subject headings in capturing the diversity of LGBTQIA+ themes and if the application of user-generated tags offers a more nuanced reflection of content."
+abstract: "Les heures du conte drag sont un type de programmation que les bibliothèques publiques proposent pour lutter contre la marginalisation des enfants et des familles LGBTQIA+ dans les espaces des bibliothèques. Les livres lus lors de ces heures du conte présentent souvent des personnages et des thèmes LGBTQIA+. Dans ce travail en cours, nous comparerons les métadonnées de sujet attribuées dans le catalogue de la Bibliothèque du Congrès et la plateforme de catalogage social LibraryThing à un corpus de livres d'images lus pendant les heures du conte. Nous examinerons les limites de l'utilisation des vedettes-matières traditionnelles pour capturer la diversité des thèmes LGBTQIA+ et si l'application de balises générées par les utilisateurs offre une réflexion plus nuancée du contenu."
 
 date: "2024-06-04T14:15:00Z"
 date_end: "2024-06-04T14:45:00Z"

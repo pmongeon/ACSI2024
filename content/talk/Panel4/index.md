@@ -1,11 +1,11 @@
 ---
-title: "Tracing Paths Through University-Community Knowledge Exchange Work in the Information Fields"
-event: CAIS2024
+title: "Tracer des chemins à travers le travail d’échange de connaissances université-communauté dans les domaines de l’information"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09)"
 
-abstract: "This panel addresses the need to make academic research more accessible, relevant, and useful to non-academic and marginalised communities, focusing on the roles information researchers and professionals can play in these efforts. It offers a retrospective on a multi-year partnership development project, highlighting insights from a community-engaged project to develop tools, training and services for university-community knowledge exchange."
+abstract: "Ce panel aborde la nécessité de rendre la recherche universitaire plus accessible, pertinente et utile aux communautés non universitaires et marginalisées, en se concentrant sur les rôles que les chercheurs et les professionnels de l'information peuvent jouer dans ces efforts. Il propose une rétrospective sur un projet de développement de partenariat pluriannuel, mettant en lumière les enseignements d'un projet communautaire visant à développer des outils, des formations et des services pour l'échange de connaissances université-communauté."
 
 date: "2024-06-05T13:00:00Z"
 date_end: "2024-06-05T14:30:00Z"

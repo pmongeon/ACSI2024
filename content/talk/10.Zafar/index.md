@@ -1,11 +1,11 @@
 ---
-title: "Exploring a Machine-Generated Concept Hierarchy Through the LEns of 'Naive' Classification"
-event: CAIS2024
+title: "Explorer une hiérarchie de concepts générée par la machine à travers le prisme de la classification « naïve »"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "Scholarly communication research often relies on comprehensive subject classifications to evaluate research produced within or across disciplines. Such use of classification systems is less related to information retrieval and more aligned with the types of knowledge discovery tasks described by Beghtol (2003) in her discussion of naive classification. In this thesis project in progress, we investigate the machine learning processes used to generate the Microsoft Academic Graph and OpenAlex subject classification systems to better understand how this classification supports knowledge discovery in a research evaluation context, and in what ways it might be made more effective in that context."
+abstract: "La recherche en communication savante s'appuie souvent sur des classifications complètes de sujets pour évaluer les recherches produites au sein ou entre les disciplines. Une telle utilisation des systèmes de classification est moins liée à la recherche d'informations et davantage alignée sur les types de tâches de découverte de connaissances décrites par Beghtol (2003) dans sa discussion sur la classification naïve. Dans ce projet de thèse en cours, nous étudions les processus d'apprentissage automatique utilisés pour générer les systèmes de classification des sujets Microsoft Academic Graph et OpenAlex afin de mieux comprendre comment cette classification soutient la découverte des connaissances dans un contexte d'évaluation de la recherche, et de quelles manières elle pourrait être rendue plus efficace. dans ce contexte."
 
 date: "2024-06-04T17:20:00Z"
 date_end: "2024-06-04T17:30:00Z"

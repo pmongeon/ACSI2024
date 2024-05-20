@@ -1,6 +1,6 @@
 ---
-title: "‘Decolonization and Reconciliation in Academic Libraries in Canada: A Review of Strategic Priorities"
-event: CAIS2024
+title: "Décolonisation et réconciliation dans les bibliothèques universitaires au Canada : un examen des priorités stratégiques"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"

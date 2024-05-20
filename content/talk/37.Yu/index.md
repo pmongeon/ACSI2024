@@ -1,11 +1,11 @@
 ---
-title: "Developing a Scale of Translanguaging for Information-based Academic Writing"
-event: CAIS2024
+title: "Développer une échelle de translangage pour la rédaction académique basée sur l'information"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "To reflect that the large population of multilingual writers can translanguage in their writing information literacy practice, this study first conducted interviews to understand this phenomenon. The analysis of the interviews and expert judgement informed the development and validation of a translingual writing information literacy scale. The statistical analysis demonstrates the validity and reliability of the scale and shows that translingual writing information literacy is unidimensional. This paper ends with discussion of the potential research and pedagogical value of this scale."
+abstract: "Pour refléter le fait qu'une grande population d'écrivains multilingues peut translinguer dans leur pratique de maîtrise de l'information, cette étude a d'abord mené des entretiens pour comprendre ce phénomène. L’analyse des entretiens et le jugement des experts ont éclairé le développement et la validation d’une échelle de maîtrise de l’information par écriture translingue. L'analyse statistique démontre la validité et la fiabilité de l'échelle et montre que la maîtrise de l'information par écriture translingue est unidimensionnelle. Cet article se termine par une discussion sur le potentiel de recherche et la valeur pédagogique de cette échelle."
 
 date: "2024-06-06T14:00:00Z"
 date_end: "2024-06-06T14:30:00Z"

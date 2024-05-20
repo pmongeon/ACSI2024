@@ -1,11 +1,11 @@
 ---
-title: "Shaping the Future of Therapy: A Call for the Involvement of Information Scholars in Designing Digital Tools for Mental Health"
-event: CAIS2024
+title: "Façonner l'avenir de la thérapie : un appel à la participation des spécialistes de l'information dans la conception d'outils numériques pour la santé mentale"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09)"
 
-abstract: "The integration of technology in therapy has grown significantly, driven by factors such as accessibility, affordability, and heightened user engagement. This paper explores technology's transformative impact on psychotherapy, focusing on cognitive-behavioral therapy (CBT) as a pioneer in adopting technology-based interventions. Examining sensor-based wearables, computer/web-based platforms, mobile applications, and immersive media, the paper underscores their potential to revolutionize mental health care. Emphasizing the unique contribution of Information Scholars, the paper advocates for their involvement to provide a socio-technical, user-centered perspective in designing the digital tools evolving and emerging in the therapy technology landscape."
+abstract: "L'intégration de la technologie dans la thérapie s'est considérablement développée, sous l'impulsion de facteurs tels que l'accessibilité, le prix abordable et l'engagement accru des utilisateurs. Cet article explore l'impact transformateur de la technologie sur la psychothérapie, en se concentrant sur la thérapie cognitivo-comportementale (TCC) en tant que pionnière dans l'adoption d'interventions basées sur la technologie. En examinant les appareils portables basés sur des capteurs, les plates-formes informatiques/Web, les applications mobiles et les médias immersifs, l'article souligne leur potentiel à révolutionner les soins de santé mentale. Soulignant la contribution unique des spécialistes de l'information, l'article plaide pour leur implication afin de fournir une perspective socio-technique centrée sur l'utilisateur dans la conception des outils numériques évoluant et émergeant dans le paysage technologique de la thérapie."
 
 date: "2024-06-04T17:00:00Z"
 date_end: "2024-06-04T17:10:00Z"

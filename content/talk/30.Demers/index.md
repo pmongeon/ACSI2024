@@ -1,11 +1,11 @@
 ---
-title: "Exploration of text mining techniques for the creation of ontologies to assist the synthesis of scientific knowledge"
-event: CAIS2024
+title: "Exploration de techniques de fouille de textes pour la création d'ontologies afin d'assister la synthèse des connaissances scientifiques"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09)"
 
-abstract: "Due to their ability to formalize the knowledge of a domain into an explicit computer-interpretable specification (Gruber, 1995), the ontology representation model proves ideal for supporting the conduct of knowledge synthesis methods such as reviews systematics of the literature (Sahlab et al., 2022). Considering the rapid and continued increase in scholarly production, automating the development of these knowledge products is essential (Al-Aswadi et al., 2020). This presentation reports the first milestones of ongoing research aimed at evaluating the contribution of ontology learning methods to support literature synthesis reviews."
+abstract: "En raison de leur capacité à formaliser les connaissances d’un domaine en une spécification explicite interprétable par ordinateur (Gruber, 1995), le modèle de représentation des ontologies s’avère idéal pour supporter la conduite de méthodes de synthèse des connaissances telles que les revues systématiques de la littérature (Sahlab et al., 2022). Considérant l’accroissement rapide et continu de la production savante, automatiser l’élaboration de ces produits de connaissance s’avère indispensable (Al-Aswadi et al., 2020). Cette présentation fait état des premiers jalons d’une recherche en cours visant à évaluer l’apport de méthodes d’apprentissage d’ontologies pour supporter les revues de synthèses de la littérature."
 
 date: "2024-06-06T11:00:00Z"
 date_end: "2024-06-06T11:30:00Z"

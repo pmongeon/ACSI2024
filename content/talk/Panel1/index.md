@@ -1,11 +1,12 @@
 ---
-title: "Cultural Heritage Informatics, Old Idea or Emerging Domain?: Stumbling into a Shared Definition for Research and Teaching"
-event: CAIS2024
+title: "L’informatique du patrimoine culturel, idée ancienne ou domaine émergent ? : buter sur une définition commune pour la recherche et l’enseignement"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09)"
 
-abstract: "This is a 90-minute roundtable discussion, moderated by Shirin G. Alamdari. The term Cultural Heritage Informatics is being used widely in Information fields and by Information Studies Scholars and programs. This panel will address the questions: What is Cultural Heritage Informatics? Why do researchers and institutions stumble with a definition? Does Cultural Heritage Informatics define a methodology, a subject interest, or a set of technical practices? What kinds of ethical considerations could we, or should we, have?"
+abstract: ""Il s'agit d'une table ronde de 90 minutes, modérée par Shirin G. Alamdari. Le terme « informatique du patrimoine culturel » est utilisé
+largement dans les domaines de l'information et par les chercheurs et les programmes en études de l'information. Ce panneau va répondre aux questions : Qu'est-ce que l'informatique du patrimoine culturel ? Pourquoi les chercheurs et les institutions butent sur une définition ? L'informatique du patrimoine culturel définit-elle une méthodologie, un sujet d’intérêt ou un ensemble de pratiques techniques ? Quels types de considérations éthiques pourrions-nous, ou devrions-nous l'avoir fait ?""
 
 date: "2024-04-06T13:15:00Z"
 date_end: "2024-06-04T14:45:00Z"

@@ -1,11 +1,11 @@
 ---
-title: "Leaps and Stumbles in the Application of Translation Technologies to Scholarly Communication"
-event: CAIS2024
+title: "Des sauts et des trébuchements dans l’application des technologies de traduction à la communication scientifique"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09)"
 
-abstract: "English plays the key role in scholarly communication and resource distribution, but using a single language for research has consequences for scholars, science and society. To create a more equitable and linguistically diverse scholarly communication ecosystem, support is needed to ensure that scholars can read each other’s work. Language technologies such as machine translation tools (e.g. Google Translate) could potentially play a role, but little is understood about whether, how and to what extent these tools are used by scholars. This systematic review focused on the current state of language technologies within the scholarly communication ecosystem, uncovering both leaps and stumbles in the process."
+abstract: "L'anglais joue un rôle clé dans la communication scientifique et la distribution des ressources, mais l'utilisation d'une seule langue pour la recherche a des conséquences sur les universitaires, la science et la société. Pour créer un écosystème de communication scientifique plus équitable et diversifié sur le plan linguistique, un soutien est nécessaire pour garantir que les chercheurs puissent lire les travaux des autres. Les technologies linguistiques telles que les outils de traduction automatique (par exemple Google Translate) pourraient potentiellement jouer un rôle, mais on sait peu de choses sur si, comment et dans quelle mesure ces outils sont utilisés par les universitaires. Cette revue systématique s'est concentrée sur l'état actuel des technologies linguistiques au sein de l'écosystème de la communication scientifique, révélant à la fois les sauts et les échecs du processus."
 
 date: "2024-06-06T11:40:00Z"
 date_end: "2024-06-06T12:10:00Z"

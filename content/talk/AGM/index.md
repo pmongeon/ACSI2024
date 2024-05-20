@@ -1,11 +1,11 @@
 ---
-title: "Annual General Meeting"
-event: CAIS2024
+title: "Assemblée générale annuelle 2024"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "All attendees are welcome to join this meeting</br></br>
+abstract: "Tous sont bienvenues</br></br>
 
 Access AGM materials: [Here](https://drive.google.com/drive/folders/19zN4UGuJF0lflc-_U1qIMsY2ivZeRNUF?usp=drive_link)"
 

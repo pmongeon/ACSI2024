@@ -1,11 +1,11 @@
 ---
-title: "Conceptualizing Insight for the Study of Doctoral Student Information Behaviour"
-event: CAIS2024
+title: "Conceptualisation de la perspicacité pour l'étude du comportement informationnel des doctorants"
+event: ACSI2024
 event_url:
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "Insight is a cognitive and affective phenomenon characterized by a sudden realization and positive affect. While the phenomenon of insight is widely studied in psychology, few LIS scholars have taken this topic seriously. This presentation reports out on the author’s exploratory study of insight experiences among doctoral students and details the challenges with operationalizing insight within this context. An argument will be made for the utility of Howard Gruber’s work in providing practical guidance for the conceptualization of students’ insight experiences"
+abstract: "La perspicacité est un phénomène cognitif et affectif caractérisé par une prise de conscience soudaine et un affect positif. Bien que le phénomène de perspicacité soit largement étudié en psychologie, peu de chercheurs en BSI ont pris ce sujet au sérieux. Cette présentation rend compte de l’étude exploratoire de l’auteur sur les expériences d’insight chez les doctorants et détaille les défis liés à l’opérationnalisation de l’insight dans ce contexte. Un argument sera avancé en faveur de l’utilité du travail de Howard Gruber pour fournir des conseils pratiques pour la conceptualisation des expériences de perspicacité des étudiants."
 
 date: "2024-06-06T12:50:00Z"
 date_end: "2024-06-06T13:20:00Z"

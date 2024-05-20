@@ -1,11 +1,11 @@
 ---
-title: "Negotiating Player Identity and Information in TTRPGs"
-event: CAIS2024
+title: "Négocier l’identité et les informations du joueur dans les TTRPG"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "Tabletop role-playing games constitute a unique site for everyday life information behaviour. Non-participant observation sessions and semi-structured interviews with two gaming groups of 4-6 players will be conducted to understand more about both the negotiation of player identities and information seeking activities. Preliminary findings of this in-progress study will be shared that focus on how information sources are used both in and out of character, as well as on knowledge about barriers and facilitators to information."
+abstract: "Les jeux de rôle sur table constituent un site unique pour le comportement informationnel de la vie quotidienne. Des séances d'observation non participantes et des entretiens semi-structurés avec deux groupes de joueurs de 4 à 6 joueurs seront menés pour mieux comprendre à la fois la négociation des identités des joueurs et les activités de recherche d'informations. Les résultats préliminaires de cette étude en cours seront partagés et porteront sur la manière dont les sources d'information sont utilisées à la fois dans et hors du personnage, ainsi que sur les connaissances sur les obstacles et les facilitateurs de l'information."
 
 date: "2024-06-06T15:00:00Z"
 date_end: "2024-06-06T15:30:00Z"

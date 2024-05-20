@@ -1,6 +1,6 @@
 ---
 title: "Platform Scopophilia: Data, Surveillance, and Pornhub Insights"
-event: CAIS2024
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"

@@ -1,11 +1,11 @@
 ---
-title: "How Dark Patterns Undermine Users' Social Privacy Online"
-event: CAIS2024
+title: "Comment les modèles sombres portent atteinte à la confidentialité sociale des utilisateurs en ligne"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "We performed a content analysis of the user interface (UI) designs for five social networking sites (SNSs) popular among teens. As a result of this analysis, we identified UI design tactics that undermine people’s social privacy – or privacy dark patterns – and consolidated these tactics into a typology consisting of two main types (Obstruction and Obfuscation) and seven subtypes."
+abstract: "Nous avons effectué une analyse du contenu des conceptions d'interface utilisateur (UI) de cinq sites de réseaux sociaux (SNS) populaires auprès des adolescents. À la suite de cette analyse, nous avons identifié des tactiques de conception d’interface utilisateur qui portent atteinte à la vie privée sociale des individus – ou des modèles sombres de confidentialité – et avons consolidé ces tactiques dans une typologie composée de deux types principaux (obstruction et obscurcissement) et de sept sous-types."
 
 date: "2024-06-05T18:00:00Z"
 date_end: "2024-06-05T18:30:00Z"

@@ -1,11 +1,11 @@
 ---
-title: "“Non-Academic” Skills for Incoming Doctoral Students"
-event: CAIS2024
+title: "Compétences « non académiques » pour les doctorants entrants"
+event: ACSI2024
 event_url: 
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91531028175)"
 
-abstract: "Hard and soft (“non-academic”) skills are important in academia, including for doctoral students. The proposed research focuses on soft skills and presents findings from qualitative research conducted with doctoral students enrolled in doctoral degree programs at one of the Canadian U15 universities. Current doctoral students were interviewed to learn more about soft skills for incoming doctoral students as they start their academic program. The participants suggested a number of soft skills such as communication, teamwork, motivation, listening, and management of failure and rejection. The study aims to contribute to the growing body of literature on soft skills generally in the context of doctoral students, and particularly, incoming doctoral students and better prepare them as they plan for their new academic journey."
+abstract: "Les compétences techniques et générales (« non académiques ») sont importantes dans le milieu universitaire, y compris pour les doctorants. La recherche proposée se concentre sur les compétences générales et présente les résultats d'une recherche qualitative menée auprès d'étudiants au doctorat inscrits à des programmes de doctorat dans l'une des universités canadiennes U15. Les doctorants actuels ont été interviewés pour en savoir plus sur les compétences générales des nouveaux doctorants alors qu'ils commencent leur programme universitaire. Les participants ont suggéré un certain nombre de compétences générales telles que la communication, le travail en équipe, la motivation, l'écoute et la gestion de l'échec et du rejet. L'étude vise à contribuer au corpus croissant de littérature sur les compétences générales en général dans le contexte des doctorants, et en particulier des doctorants entrants, et à mieux les préparer dans la planification de leur nouveau parcours universitaire."
 
 date: "2024-06-06T13:30:00Z"
 date_end: "2024-06-06T14:00:00Z"
