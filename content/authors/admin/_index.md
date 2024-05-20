@@ -22,38 +22,416 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
 
 <strong>Inscription</strong> : La conférence sera gratuite et ouverte à tous, sans inscription nécessaire.
 
-### Types de propositions
+# Program
 
-ACSI/CAIS accueille les propositions d'articles, de présentations éclair ou de panels axés sur la recherche empirique, théorique et basée sur la pratique. Les propositions peuvent être soumises en français ou en anglais. Toutes les propositions seront soumises à un examen par les pairs en double aveugle et doivent être débarrassées des informations d'identification personnelle lors de la soumission initiale.
+<table style="width:100%">
+  <tr>
+      <td colspan=6 style="font-size:20px"><strong>Jour 1 - Mardi, Juin 4</strong> </td>
+  </tr>
+  <tr>
+    <th colspan=2 style="width:20%">Séance</th>
+    <th colspan=2 style="width:20%">Heure (HAE)</th>
+    <th colspan=2 style="width:60%"><a href="https://westernuniversity.zoom.us/j/91531028175">Presentation</a></th>
+  </tr>
+  <tr>
+    <td colspan=2>BIENVENUE et PRIX ACSI/CAIS</td>
+    <td colspan=2>11:00am - 11:15am</td>
+    <td colspan=2><strong><a href="https://westernuniversity.zoom.us/j/91531028175">BIENVENUE et PRIX ACSI/CAIS</a></strong></td>
+  </tr>
+  <tr>
+    <td colspan=2>CONFÉRENCIER PRINCIPAL D'OUVERTURE</td></br>
+    <td colspan=2>11:15am - 12:45pm</td>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/Keynote1">À annoncer</a></strong></br>
+    <i>Grant Campbell</i></td>
+  </tr>
+  <tr>
+    <td colspan=2>Break</td>
+    <td colspan=4>2:45pm - 1:15pm</td>
+  </tr>
+  
+  <tr>
+    <th>Séance</th>
+    <th>Heure (HAE)</th>
+    <th><a href="https://westernuniversity.zoom.us/j/91531028175">Piste 1</a><//th>
+    <th>Séance</th>
+    <th>Heure (HAE)</th>
+    <th><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Piste 2</a></th>
+  </tr>
+  
+  <tr>
+  <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Avances en diversité, équité et inclusion I </a> </i></td>
+    <td>1:15pm - 1:45pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/01.Mehra/">Engagement civique et impact collectif pour le changement social : les bibliothèques publiques promeuvent la justice raciale dans le sud des États-Unis</a></strong><br>
+        <i>Bharat Mehra, Kimberly Black, Baheya Jaber and Kaurri Williams-Cockfield</i>
+  </td>
+    <td rowspan=3> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Séance de panel I </a></td>
+    <td rowspan=3>1:15pm - 2:45pm</td>
+    <td rowspan=3><strong><a href="https://www.acsi2024.ca/talk/Panel1/">L’informatique du patrimoine culturel, idée ancienne ou domaine émergent ? : buter sur une définition commune pour la recherche et l’enseignement</a></strong><br>
+        <i>Hannah Turner, Shirin G. Alamdari, Stacy Allison-Cassin, Isto Huvila, Diana Marsh and Andrea Thomer</i>
+  </td>
+  </tr>
+  
+  <tr> 
+    <td>1:45pm - 2:15pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/02.Crossman/">EInclusion quotidienne auprès des jeunes racialisés dans les bibliothèques publiques</a></strong><br>
+        <i>Katie Crossman, Lindsay Banting and Carrie Kitchen</i>
+  </td>
+  </tr>
 
-<strong>Communications</strong> : Nous recherchons des soumissions pour une variété de présentations orales de 20 minutes. Nous recherchons particulièrement les soumissions qui parlent du thème de la conférence « Des sauts et des trébuchements ».
-- « Des pas de géant » : études empiriques terminées ou bien développées pouvant être publiées dans des revues savantes.
-- « Des sauts quantiques » : discussions ou revues de littérature rigoureuses, théoriques, métathéoriques, conceptuelles ou scientifiques.
-- « Des actes de foi » : travaux en cours
-- « Des sauts à l’esprit » : travaux d'étudiants, de professionnels, et de chercheurs internationaux
-
-ACSI/CAIS est également heureux d'accepter des propositions sur tous les sujets relevant de la discipline de la bibliothéconomie et sciences d’information. Des perspectives et méthodologies diverses et innovantes (théoriques et appliquées) sont les bienvenues.
-
-Les propositions doivent être sous la forme d'un résumé étendu (environ 1 000 à 1 500 mots, hors références). Veuillez consulter nos <a href="Extended-Abstract-Writing-Guide-fr.pdf">conseils utiles pour rédiger un résumé étendu</a> et utiliser <a href="CAIS-ACSI-2024-Abstract-Template.docx">ce modèle</a> pour préparer votre soumission. (Remarque : si vous rencontrez des difficultés pour télécharger le modèle, essayez d'ouvrir le lien dans une nouvelle fenêtre ou un nouvel onglet, ou d'utiliser la fonction Enregistrer sous).
-
-<strong>Présentations éclair</strong> : présentations visuelles de projets à tout stade de développement sur des sujets pouvant être publiés dans des revues savantes. Diverses perspectives (théoriques et appliquées) et méthodologies sont les bienvenues. Les propositions doivent se présenter sous la forme d'un court résumé (maximum 750 mots hors références), faisant état de projets de recherche, de développements théoriques ou d'applications pratiques innovantes. Les présentateurs des communications acceptées seront également invités à donner un aperçu de leur travail en 5 à 7 minutes. Veuillez utiliser <a href="CAIS-ACSI-2024-Abstract-Template.docx">ce modèle</a> (remarque : si vous rencontrez des difficultés pour télécharger le modèle, essayez d'ouvrir le lien dans une nouvelle fenêtre ou un nouvel onglet, ou d'utiliser la fonction Enregistrer sous).
-
-<strong>Panels</strong> : présentations orales de 90 minutes de trois auteurs ou plus sur des domaines émergents, des tendances ou des points de vue contrastés, y compris du temps pour les questions ou la discussion. Les panels sont l'occasion de discuter de préoccupations communes, y compris celles qui ne sont pas disponibles dans les recherches terminées ou qui ne sont pas encore suffisamment reconnues. Les propositions ne doivent pas être simplement un ensemble de présentations papier connexes ; nous encourageons les propositions qui offrent des opportunités créatives et uniques d'engagement et de discussion avec le public dans le cadre de la table ronde. Nous recommandons trois à cinq panélistes plus un modérateur ; il y aura la possibilité de modifier la liste des panélistes après acceptation. Les propositions doivent être sous la forme d'un résumé étendu (environ 1 000 à 1 500 mots hors références, veuillez consulter ici pour nos <a href="Extended-Abstract-Writing-Guide-fr.pdf">conseils utiles pour rédiger un résumé étendu</a>), qui identifie le sujet à discuter et donne un aperçu de la structure du panel, et comprend les qualifications et contributions pertinentes de chaque panéliste participant. Veuillez utiliser <a href="CAIS-ACSI-2024-Abstract-Template.docx">ce modèle</a>. (Remarque : si vous rencontrez des difficultés pour télécharger le modèle, essayez d'ouvrir le lien dans une nouvelle fenêtre ou un nouvel onglet, ou d'utiliser la fonction Enregistrer sous).
-
-Les propositions seront évaluées de manière globale en fonction de leur clarté, de leur impact/originalité, de leur qualité globale et de leur théorie/méthodologie, le cas échéant. Les propositions seront reçues et examinées via EasyChair : https://easychair.org/conferences/?conf=caisacsi2024
-
-<strong>Forum de recherche des étudiants de doctorat/maîtrise</strong> : Nous sommes heureux d’inviter les étudiants de maîtrise et de doctorat au Forum de recherche des étudiants de l’ACSI. L’objectif du forum est de fournir aux étudiants l’occasion de présenter et de discuter de leur projet de recherche, d’obtenir les commentaires de chercheurs chevronnés et d’établir des liens avec d’autres étudiants. Les étudiants à n'importe quelle étape de leur programme d'études supérieures sont invités à soumettre leur candidature au forum. Veuillez être prêt à présenter de manière informelle un aspect de votre recherche pendant 5 à 10 minutes, qui sera suivie d'une discussion. Plus de détails seront fournis après acceptation.
-
-Pour participer au Forum, veuillez remplir le formulaire de soumission suivant: https://forms.gle/HE3t4gim3XSym6eH9
-
-<strong>Prix étudiant-à-ACSI/CAIS et meilleur article rédigé par un praticien</strong> : les propositions d'articles rédigés par des étudiants diplômés et des praticiens seront prises en considération pour ces prix. Le prix Étudiant-à-ACSI/CAIS comprend un prix monétaire. Les deux lauréats auront l’occasion de publier le manuscrit complet dans la Revue canadienne des sciences de l’information et de bibliothéconomie / Canadian Journal of Information and Library Science. Afin d'être pris en considération pour ces prix, veuillez indiquer si vous êtes un étudiant ou un praticien lors de la soumission de votre proposition. Les gagnants seront sélectionnés sur la base de leurs résumés étendus. Les détails du prix, y compris les lauréats précédents, peuvent être consultés sur le site Web du ACSI/CAIS à www.cais-acsi.ca.
-
-<strong>Dates importantes</strong> :
-La <strong>nouvelle</strong> date limite de soumission pour toutes les propositions est le <strong>5 février 2024, minuit, heure du Pacifique</strong>. Les soumissions initiales doivent être débarrassées des informations d’identification pour un examen par les pairs en double aveugle.
-
-Les auteurs seront informés au plus tard le 15 mars 2024. Les versions finales devront être soumises au plus tard le 30 avril 2024 et seront ensuite publiées sur le site Internet du congrès et dans les actes du congrès. 
-
-<strong>RCSIB</strong> : La revue savante de l’Association canadienne des sciences de l’information est la Revue canadienne des sciences de l'information et de bibliothéconomie. Cette revue bilingue, qui publie en français et en anglais, est en publication continue depuis 1976 et a récemment évolué vers un modèle de publication en libre accès diamant (où les auteurs ni les lecteurs ne paient aucun frais). Les auteurs sont encouragés à soumettre des articles complets à la revue.
+  
+  <tr> 
+    <td>2:15pm - 2:45pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/03.Barriage/">Heures du conte Drag et invisibilité bibliographique : une analyse comparative des métadonnées sur les sujets des livres d'images</a></strong><br>
+        <i>Sarah Barriage, Beth Strickland Bloch and Vanessa Kitzie</i>
+  </td>
+  </tr>
+  
+  
+  <tr>
+    <td>Break</td>
+    <td colspan=5>2:45pm - 3:15pm</td>
+  </tr>
 
 
+  <tr>
+  <td rowspan=2 colspan=2><a href="https://westernuniversity.zoom.us/j/91531028175">Avances en diversité, équité et inclusion II</a></i></td>
+   <td colspan=2 >3:15pm - 3:45pm</td>
+    <td colspan=2 ><strong><a href="https://www.acsi2024.ca/talk/04.Rathi/">Décolonisation et réconciliation dans les bibliothèques universitaires au Canada : un examen des priorités stratégiques</a></strong><br>
+        <i>Dinesh Rathi and Jennifer Branch-Mueller</i>
+  </td> 
+  </tr>
+
+  <tr> 
+    <td colspan=2 > 3:45pm - 4:15pm</td>
+    <td colspan=2 > <strong><a href="https://www.acsi2024.ca/talk/05.Baker/">Réflexion transformatrice sur la conscience perspective : fournir un bond en avant en matière de diversité, d'équité, d'inclusion et d'appartenance dans la pratique</a></strong><br>
+        <i>Sheila F Baker and Vivienne McClendon</i>
+  </td>
+  </tr>
+
+  
+  <tr>
+    <td>Break</td>
+    <td colspan=5>4:15pm - 5:00pm</td>
+  </tr>
+  
+  <tr>
+  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">OpenAlex et Classification</a></td>
+    <td>5:00pm - 5:10pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/06.Rose/">Cartographier des sciences de l'environnement : une revue OpenAlex</a></strong><br>
+        <i>Margaret Rose, Jasmin Macarios and Sheila Woodgold</i>
+  </td>
+    <td rowspan=4><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Santé et Information</a></td>
+    <td>5:00pm - 5:10pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/07.Schloss/">Façonner l'avenir de la thérapie : un appel à la participation des spécialistes de l'information dans la conception d'outils numériques pour la santé mentale</a></strong><br>
+        <i>Isabella Schloss and Andrew Dillon</i>
+  </td>
+  </tr>
+    <tr>  
+    <td>5:10pm - 5:20pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/08.Stankovic/">Une évaluation d'OpenAlex niveau 0 - Art</a></strong><br>
+        <i>Senka Stankovic, Isabella Sun and Kayla Wemp</i>
+  </td>
+    <td>5:10pm - 5:20pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/09.Lueg/">Explorer une lacune dans le vieillissement informé et conscient de soi : une perspective de la science de l'information incorporée</a></strong><br>
+        <i>Christopher Lueg and Siyao Cheng</i>
+  </td> 
+  </tr>  
+     <tr>  
+    <td>5:20pm - 5:50pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/10.Zafar/">Explorer une hiérarchie de concepts générée par la machine à travers le prisme de la classification « naïve »</a></strong><br>
+        <i>Huma Zafar</i>
+  </td>
+    <td>5:20pm - 5:30pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/11.Dalmer/">L’importance de revisiter : retracer le travail d’information quotidien des aidants familiaux</a></strong><br>
+        <i>Nicole Dalmer</i>
+  </td>
+  </tr>   
+  <tr>  
+    <td>5:50pm - 6:00pm</td>
+    <td>  
+  </td>
+    <td>5:30pm - 6:00pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/12.Granikov/">Apprendre ensemble à réfléchir de manière critique à l'information sur la santé : une étude de cas participative en cours</a></strong><br>
+        <i>Vera Granikov and Liz Perrin</i>
+  </td> 
+  </tr> 
+  <tr>
+      <td colspan=6 style="font-size:20px"><strong><font>Jour 2 - Mercredi, Juin 5</font></strong></td>
+  </tr> 
+
+  <tr>
+    <th>Séance</th>
+    <th>Heure (HAE)</th>
+    <th><a href="https://westernuniversity.zoom.us/j/91531028175">Piste 1</a><//th>
+    <th>Séance</th>
+    <th>Heure (HAE)</th>
+    <th><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Piste 2</a></th>
+  </tr>
+  <tr>
+  <td rowspan=5><a href="https://westernuniversity.zoom.us/j/91531028175">Des sauts et des trébuchements I</a></td>
+    <td>11:00am - 11:10am</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/13.Fischer/">Trébucher sur l'ouverture d'esprit dans les enchevêtrements de la maîtrise de l'information : un changement théorique</a></strong></br>
+    <i>Meredith Fischer</i>
+    </td>
+    <td rowspan=5><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Séance de panel II</a></td>
+    <td rowspan=5>11:00am - 12:30pm</td>
+    <td rowspan=5><strong><a href="https://www.acsi2024.ca/talk/Panel2/">Trébucher pour réussir : défis, obstacles et dilemmes éthiques dans la recherche avec des participants humains</a></strong></br>
+    <i>Keren Dali, Tawfiq Ammari, Kaitlin Costello, Heather Hill and Charles Senteio</i>
+    </td>
+  </tr>
+  <tr>
+    <td>11:10am - 11:40am</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/14.Shiri/">Le saut conceptuel : une exploration conceptuelle</a></strong></br>
+    <i>Ali Shiri</i>
+  </tr>
+  <tr>
+    <td>11:40pm - 11:50am</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/15.Mullender/">Le système de classification du troisième espritThe Third Mind Classification System</a></strong></br>
+    <i>Alec Mullender</i>
+  </tr>
+  <tr>
+    <td>11:50am - 12:20pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/16.Agnieszkar/">Saut dans l'inconnu: De l'approche info-communicationnelle des temporalités de la donnée</a></strong></br>
+    <i>Tona Agnieszkar</i>
+  </tr>
+  <tr>
+    <td>12:20pm - 12:30pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/17.Tella/">Des bonds quantiques aux trébuchements : dévoiler le parcours de recherche académique des chercheurs en bibliothéconomie et en sciences de l'information en Afrique</a></strong></br>
+    <i>Adeyinka Tella</i>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=5>12:30pm - 1:00pm</td>
+  </tr>
+  <tr>
+  <td><a href="https://westernuniversity.zoom.us/j/91531028175">Séance de panel III</a></td>
+    <td>1:00pm - 2:30pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/Panel3/">Pratique de l'écriture en bibliothéconomie et sciences de l'information : visions critiques, ethnographiques et institutionnelles</a></strong><br>
+        <i>Hugh Samson, Jenna Hartel, Bharat Mehra and Mary Broussard</i>
+  </td>
+  <td><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Séance de panel IV</a></td>
+    <td>1:00pm - 2:30pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/Panel4/">Tracer des chemins à travers le travail d’échange de connaissances université-communauté dans les domaines de l’information</a></strong><br>
+        <i>Luanne Sinnamon, Julia Bullard, Kristina McDavid, Melissa Nelson, Heather O'Brien, Samantha Snodgrass, and David M. Levy</i>
+  </td>
+  </tr>
+    <tr>
+    <td>Break</td>
+    <td colspan=5>2:30pm - 3:00pm</td>
+  </tr>
+    <tr>
+  <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Bibliothéconomie</a></td>
+    <td>3:00pm - 3:30pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/18.Bourgard/">La rédaction durable de Wikipédia et la profession de bibliothécaire : analyse des modèles d'édition des participants à 1Lib1Ref</a></strong><br>
+        <i>Erin Bourgard</i>
+  </td>
+    <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Des sauts et des trébuchements II</a></td>
+    <td>3:00pm - 3:30pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/19.Olsson/">Saut quantique : les architectures de pratique comme outil conceptuel dans la recherche sur les pratiques de l'information</a></strong><br>
+        <i>Michael Olsson</i>
+  </td>
+  </tr>
+    <tr>  
+    <td>3:30pm - 4:00pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/20.Chabot/">Un sauter ou un trébuchement ? Une étude sur les paraprofessionnels des bibliothèques détenant ou poursuivant le diplôme MLIS et leur travail liminal</a></strong><br>
+        <i>Roger Chabot and Annabelle Drobniak</i>
+  </td>
+    <td>3:30pm - 4:00pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/21.Lueg/">Pourquoi une discipline des sciences de l'information tournée vers l'avenir devrait adopter un « virage animal »</a></strong><br>
+        <i>Christopher Lueg</i>
+  </td> 
+  </tr>  
+     <tr>  
+    <td>4:00pm - 4:30pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/22.Martel/">Engagement des bibliothèques publiques et scolaires : Étude de cas multiples en littératie communautaire</a></strong><br>
+        <i>Marie D. Martel, Christine Dufour and Nathalie Lacelle</i>
+  </td>
+    <td>4:00pm - 4:10pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/23.Kampen/">JALOUSIE, JALOUSIE : Explorer l'envie de discipline et la jalousie de méthode dans le développement de sujets de recherche en sciences de l'information</a></strong><br>
+        <i>Andrea Kampen</i>
+  </td>
+  </tr> 
+    <tr>
+    <td>Break</td>
+    <td colspan=5>4:30pm - 5:00pm</td>
+  </tr>  
+  <tr>
+  <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Information & Politque</a></td>
+    <td>5:00pm - 5:30pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/24.Smith/">Des avancées dans l'accès et la réutilisation des médias : codes de bonnes pratiques en matière de droits d'auteur</a></strong><br>
+        <i>Christine Smith, Rumi Graham and Eva Revitt</i>
+  </td>
+    <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Les archives</a></td>
+    <td>5:00pm - 5:30pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/25.Day/">
+Connexions et collaborations : les archives et communautés indépendantes queer de Nouvelle-Zélande et les institutions GLAMU</a></strong><br>
+        <i>Alison Day</i>
+  </td>
+  </tr>
+    <tr>  
+    <td>5:30pm - 6:00pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/26.Santos/">Théorie de création de sens pour une action climatique communautaire : faire de la place pour la différence</a></strong><br>
+        <i>Rodrigo Dos Santos, Alexandra Gaspar, Yifan Liu, Benjamin Mertick, Lisa Nathan, Luanne Sinnamon, Amory Strader and Coco Chen</i>
+  </td>
+    <td>5:30pm - 6:00pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/27.Allard/">Les féminismes dans les archives : une revue systématique des approches féministes dans la littérature sur les études archivistiques, 1973-2023</a></strong><br>
+        <i>Danielle Allard, Tami Oliphant and Thane Chambers</i>
+  </td> 
+  </tr>  
+     <tr>  
+    <td>6:00pm - 6:10pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/28.Kelly/">Comment les modèles sombres portent atteinte à la confidentialité sociale des utilisateurs en ligne
+</a></strong><br>
+        <i>Dominique Kelly and Jacquelyn Burkell</i>
+  </td>
+    <td>6:00pm - 6:30pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/29.Wendelken/">Raconter des histoires - Un paradigme pour la recherche en tenue de documents</a></strong><br>
+        <i>Seren Wendelken</i>
+  </td>
+  </tr> 
+  
+  <tr>
+    <td colspan=6 style="font-size:20px"><strong><font>Jour 3 - Jeudi, Juin 6</font></strong></td>
+  </tr>
+  
+ <tr>
+    <th>Séance</th>
+    <th>Heure (HAE)</th>
+    <th><a href="https://westernuniversity.zoom.us/j/91531028175">Piste 1</a><//th>
+    <th>Séance</th>
+    <th>Heure (HAE)</th>
+    <th><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Piste 2</a></th>
+  </tr>
+  
+  <tr>
+  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Séance de panel V </a> </i></td>
+  </td>
+    <td rowspan=4>11:00am - 12:30pm</td>
+    <td rowspan=4><strong><a href="https://www.acsi2024.ca/talk/Panel5/">Théorie de l'information psychédélique : une exploration systématique de l'information au cours d'une conscience altérée</a></strong><br>
+        <i>Jenna Hartel, James L. Kent, Tim Gorichanaz and Keith Munro</i>
+  </td>
+    <td rowspan=4> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Communication Savante</a>
+    <td>11:00am - 11:30am</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/30.Demers/">Exploration de techniques de fouille de textes pour la création d'ontologies afin d'assister la synthèse des connaissances scientifiques</a></strong><br>
+        <i>Camille Demers and Dominic Forest</i>
+  </td>
+  </tr>
+  
+  <tr> 
+    <td>11:30am - 11:40am</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/31.Zhu/">Ce qui nous manque lorsque nous citons exclusivement en anglais : le cas des sources en langue chinoise</a></strong><br>
+        <i>Yating Zhu and Keren Dali</i>
+  </td>
+  </tr>
+
+  <tr> 
+    <td>11:40am - 12:10pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/32.Ayeni/">Des sauts et des trébuchements dans l’application des technologies de traduction à la communication scientifique</a></strong><br>
+        <i>Philips Ayeni, Emanuel Kulczycki and Lynne Bowker</i>
+  </td>
+  </tr>
+  
+  <tr> 
+    <td>12:10pm - 12:20pm</td>
+    <td><strong><a href="https://www.acsi2024.ca/talk/33.Poitras/">La comparaison des systèmes de classification des disciplines: approches et considérations</a></strong><br>
+        <i>Constance Poitras and Anton Boudreau Ninkov</i>
+  </td>
+  </tr>
+  
+  <tr>
+    <td>Break</td>
+    <td colspan=5>12:30pm - 12:50pm</td>
+  </tr>
+  
+  <tr>
+    <td colspan=2 rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Education</i></td>
+    <td colspan=2>12:50pm - 1:20pm</td>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/34.Hangauer/">Conceptualisation de la perspicacité pour l'étude du comportement informationnel des doctorants</a></strong><br>
+        <i>Kelly Hangauer</i>
+  </tr>
+      
+  <tr>
+    <td colspan=2>1:20pm - 1:30pm</td>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/35.Abel/">Qui étudie les étudiants ? Les défis de faire de la recherche sur les programmes canadiens en BSI</a></strong><br>
+        <i>Jennifer Abel and Alisa Rod</i>
+  </tr>
+
+      
+  <tr>
+    <td colspan=2>1:30pm - 2:00pm</td>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/36.Rathi/">Compétences « non académiques » pour les doctorants entrants</a></strong><br>
+        <i>Dinesh Rathi and Jennifer Branch-Mueller</i>
+  </tr>
+
+      
+  <tr>
+    <td colspan=2>2:00pm - 2:30pm</td>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/37.Yu/">Développer une échelle de translangage pour la rédaction académique basée sur l'information</a></strong><br>
+        <i>Chengyuan Yu and Yanchao Yang</i>
+  </tr>
+
+  <tr>
+    <td>Break</td>
+    <td colspan=5>2:30pm - 3:00pm</td>
+  </tr>
+
+  <tr>
+    <td colspan=2 rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Comportement Informationel</i></td>
+    <td colspan=2>3:00pm - 3:30pm</td>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/38.Dodd/">Négocier l’identité et les informations du joueur dans les TTRPG</a></strong><br>
+        <i>Hanna Dodd and Paulette Rothbauer</i>
+  </tr>
+      
+  <tr>
+    <td colspan=2>3:30pm - 4:00pm</td>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/39.Suzuki/">Explorer l'intersection de la création d'espaces numériques et des sciences de l'information dans les villes intelligentes</a></strong><br>
+        <i>Takayuki Suzuki, Andrew Dillon and Kenneth R. Fleischmann</i>
+  </tr>
+      
+  <tr>
+    <td colspan=2>4:00pm - 4:15pm</td>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/40.Ugwu/">Intention des clients d'adopter les achats en ligne dans les services bancaires de détail au Royaume-Uni : intégrer les pratiques d'information et la confiance</a></strong><br>
+        <i>Gertrude Ugwu, Gobinda Chowdhury and Michael Harker</i>
+  </tr>
+      
+  <tr>
+    <td>Break</td>
+    <td colspan=5>4:15pm - 5:00pm</td>
+  </tr>
+
+  <tr>
+    <td colspan=2><a href="https://westernuniversity.zoom.us/j/91531028175">CONFÉRENCIÈRE PRINCIPALE DE FERMETURE</i></td>
+    <td colspan=2>5:00pm - 6:30pm</td>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/keynote2/">Platform Scopophilia: Data, Surveillance, and Pornhub Insights </a></strong><br>
+        <i>Maggie MacDonald </i>
+  </tr>
+     
+
+  <tr>
+    <td colspan=6 style="font-size:20px"><strong><font>Jour 4 - Vendredi, Juin 7</font></strong></td>
+  </tr>
+  <tr>
+    <th colspan=2>Séance</th>
+    <th colspan=2>Heure (HAE)</th>
+    <th colspan=2>Évènement</th>
+  </tr>
+  <tr>
+    <td colspan=2><a href="https://westernuniversity.zoom.us/j/91531028175">SRF</a></td>
+    <td colspan=2>11:00am - 1:00pm</td>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/SRF/">Forum de recherche d'étudiants</a></strong><br>
+        <i>Sur candidature ou invitation uniquement</i>
+  </td>
+  </tr>
+    <tr>
+    <td colspan=2>Break</td>
+    <td colspan=4>1:00pm - 2:00pm</td>
+  </tr>
+  <tr>
+    <td colspan=2><a href="https://westernuniversity.zoom.us/j/91531028175">AGM</a></td>
+    <td colspan=2>2:00pm - 4:00pm</td>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/AGM/">Assemblée générale annuelle 2024</a></strong><br>
+        <i>Tous sont bienvenues</i>
+    </td>
+  </tr>
+</table>
 
