@@ -41,7 +41,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   <tr>
     <td colspan=2>CONFÉRENCIER PRINCIPAL D'OUVERTURE</td></br>
     <td colspan=2>11:15am - 12:45pm</td>
-    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/Keynote1">À annoncer</a></strong></br>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/Keynote1">Vingt-cinq ans sur le rythme des métadonnées</a></strong></br>
     <i>Grant Campbell</i></td>
   </tr>
   <tr>
