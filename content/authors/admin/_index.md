@@ -207,12 +207,12 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   <td><a href="https://westernuniversity.zoom.us/j/91531028175">Séance de panel III</a></td>
     <td>1:00pm - 2:30pm</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/Panel3/">Pratique de l'écriture en bibliothéconomie et sciences de l'information : visions critiques, ethnographiques et institutionnelles</a></strong><br>
-        <i>Hugh Samson, Jenna Hartel, Bharat Mehra and Mary Broussard</i>
+        <i>Hugh Samson, Jenna Hartel, Bharat Mehra, Mary Broussar, and David M. Levyd</i>
   </td>
   <td><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Séance de panel IV</a></td>
     <td>1:00pm - 2:30pm</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/Panel4/">Tracer des chemins à travers le travail d’échange de connaissances université-communauté dans les domaines de l’information</a></strong><br>
-        <i>Luanne Sinnamon, Julia Bullard, Kristina McDavid, Melissa Nelson, Heather O'Brien, Samantha Snodgrass, and David M. Levy</i>
+        <i>Luanne Sinnamon, Julia Bullard, Kristina McDavid, Melissa Nelson, Heather O'Brien, and Samantha Snodgrass</i>
   </td>
   </tr>
     <tr>
