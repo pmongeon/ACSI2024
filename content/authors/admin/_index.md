@@ -26,7 +26,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
 
 <table style="width:100%">
   <tr>
-      <td colspan=6 style="font-size:20px"><strong>Jour 1 - Mardi, Juin 4</strong> </td>
+      <td colspan=6 style="font-size:20px"><strong>Jour 1 – Mardi, le 4 juin</strong> </td>
   </tr>
   <tr>
     <th colspan=2 style="width:20%">Séance</th>
@@ -45,7 +45,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
     <i>Grant Campbell</i></td>
   </tr>
   <tr>
-    <td colspan=2>Break</td>
+    <td colspan=2>Pause</td>
     <td colspan=4>2:45pm - 1:15pm</td>
   </tr>
   
@@ -88,7 +88,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   
   
   <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=5>2:45pm - 3:15pm</td>
   </tr>
 
@@ -110,7 +110,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
 
   
   <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=5>4:15pm - 5:00pm</td>
   </tr>
   
@@ -156,7 +156,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   </td> 
   </tr> 
   <tr>
-      <td colspan=6 style="font-size:20px"><strong><font>Jour 2 - Mercredi, Juin 5</font></strong></td>
+      <td colspan=6 style="font-size:20px"><strong><font>Jour 2 – Mercredi, le 5 juin</font></strong></td>
   </tr> 
 
   <tr>
@@ -200,7 +200,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
     <i>Adeyinka Tella</i>
   </tr>
   <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=5>12:30pm - 1:00pm</td>
   </tr>
   <tr>
@@ -216,7 +216,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   </td>
   </tr>
     <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=5>2:30pm - 3:00pm</td>
   </tr>
     <tr>
@@ -252,7 +252,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   </td>
   </tr> 
     <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=5>4:30pm - 5:00pm</td>
   </tr>  
   <tr>
@@ -291,7 +291,7 @@ Connexions et collaborations : les archives et communautés indépendantes queer
   </tr> 
   
   <tr>
-    <td colspan=6 style="font-size:20px"><strong><font>Jour 3 - Jeudi, Juin 6</font></strong></td>
+    <td colspan=6 style="font-size:20px"><strong><font>Jour 3 – Jeudi, le 6 juin</font></strong></td>
   </tr>
   
  <tr>
@@ -339,7 +339,7 @@ Connexions et collaborations : les archives et communautés indépendantes queer
   </tr>
   
   <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=5>12:30pm - 12:50pm</td>
   </tr>
   
@@ -371,7 +371,7 @@ Connexions et collaborations : les archives et communautés indépendantes queer
   </tr>
 
   <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=5>2:30pm - 3:00pm</td>
   </tr>
 
@@ -395,7 +395,7 @@ Connexions et collaborations : les archives et communautés indépendantes queer
   </tr>
       
   <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=5>4:15pm - 5:00pm</td>
   </tr>
 
@@ -408,7 +408,7 @@ Connexions et collaborations : les archives et communautés indépendantes queer
      
 
   <tr>
-    <td colspan=6 style="font-size:20px"><strong><font>Jour 4 - Vendredi, Juin 7</font></strong></td>
+    <td colspan=6 style="font-size:20px"><strong><font>Jour 4 – Vendredi, le 7 juin</font></strong></td>
   </tr>
   <tr>
     <th colspan=2>Séance</th>
@@ -423,7 +423,7 @@ Connexions et collaborations : les archives et communautés indépendantes queer
   </td>
   </tr>
     <tr>
-    <td colspan=2>Break</td>
+    <td colspan=2>Pause</td>
     <td colspan=4>1:00pm - 2:00pm</td>
   </tr>
   <tr>
