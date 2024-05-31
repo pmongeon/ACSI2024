@@ -59,12 +59,14 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   </tr>
   
   <tr>
-  <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Avances en diversité, équité et inclusion I </a> </i></td>
+  <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Avances en diversité, équité et inclusion I </a><br>
+        <i>Modérateur: Sarah Polkinghorne</i></td>
     <td>1:15pm - 1:45pm</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/01.Mehra/">Engagement civique et impact collectif pour le changement social : les bibliothèques publiques promeuvent la justice raciale dans le sud des États-Unis</a></strong><br>
         <i>Bharat Mehra, Kimberly Black, Baheya Jaber and Kaurri Williams-Cockfield</i>
   </td>
-    <td rowspan=3> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Séance de panel I </a></td>
+    <td rowspan=3> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Séance de panel I</a><br>
+        <i>Modérateur: Shirin G.Alamdari</i></td>
     <td rowspan=3>1:15pm - 2:45pm</td>
     <td rowspan=3><strong><a href="https://www.acsi2024.ca/talk/Panel1/">L’informatique du patrimoine culturel, idée ancienne ou domaine émergent ? : buter sur une définition commune pour la recherche et l’enseignement</a></strong><br>
         <i>Hannah Turner, Shirin G. Alamdari, Stacy Allison-Cassin, Isto Huvila, Diana Marsh and Andrea Thomer</i>
@@ -115,12 +117,14 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   </tr>
   
   <tr>
-  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">OpenAlex et Classification</a></td>
+  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">OpenAlex et Classification</a><br>
+        <i>Modérateur: Julia Bullard</i></td>
     <td>5:00pm - 5:10pm</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/06.Rose/">Cartographier des sciences de l'environnement : une revue OpenAlex</a></strong><br>
         <i>Margaret Rose, Jasmin Macarios and Sheila Woodgold</i>
   </td>
-    <td rowspan=4><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Santé et Information</a></td>
+    <td rowspan=4><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Santé et Information</a><br>
+        <i>Modérateur: Tami Oliphant</i></td>
     <td>5:00pm - 5:10pm</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/07.Schloss/">Façonner l'avenir de la thérapie : un appel à la participation des spécialistes de l'information dans la conception d'outils numériques pour la santé mentale</a></strong><br>
         <i>Isabella Schloss and Andrew Dillon</i>
@@ -168,12 +172,14 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
     <th><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Piste 2</a></th>
   </tr>
   <tr>
-  <td rowspan=5><a href="https://westernuniversity.zoom.us/j/91531028175">Des sauts et des trébuchements I</a></td>
+  <td rowspan=5><a href="https://westernuniversity.zoom.us/j/91531028175">Des sauts et des trébuchements I</a><br>
+        <i>Modérateur: Jenna Hartel</i></td>
     <td>11:00am - 11:10am</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/13.Fischer/">Trébucher sur l'ouverture d'esprit dans les enchevêtrements de la maîtrise de l'information : un changement théorique</a></strong></br>
     <i>Meredith Fischer</i>
     </td>
-    <td rowspan=5><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Séance de panel II</a></td>
+    <td rowspan=5><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Séance de panel II</a><br>
+        <i>Modérateur: Sarah Polkinghorne</i></td>
     <td rowspan=5>11:00am - 12:30pm</td>
     <td rowspan=5><strong><a href="https://www.acsi2024.ca/talk/Panel2/">Trébucher pour réussir : défis, obstacles et dilemmes éthiques dans la recherche avec des participants humains</a></strong></br>
     <i>Keren Dali, Tawfiq Ammari, Kaitlin Costello, Heather Hill and Charles Senteio</i>
@@ -204,12 +210,14 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
     <td colspan=5>12:30pm - 1:00pm</td>
   </tr>
   <tr>
-  <td><a href="https://westernuniversity.zoom.us/j/91531028175">Séance de panel III</a></td>
+  <td><a href="https://westernuniversity.zoom.us/j/91531028175">Séance de panel III</a><br>
+        <i>Modérateur: Meredith Fischer</i></td>
     <td>1:00pm - 2:30pm</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/Panel3/">Pratique de l'écriture en bibliothéconomie et sciences de l'information : visions critiques, ethnographiques et institutionnelles</a></strong><br>
         <i>Hugh Samson, Jenna Hartel, Bharat Mehra, Mary Broussar, and David M. Levyd</i>
   </td>
-  <td><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Séance de panel IV</a></td>
+  <td><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Séance de panel IV</a><br>
+        <i>Modérateur: Vera Granikov</i></td>
     <td>1:00pm - 2:30pm</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/Panel4/">Tracer des chemins à travers le travail d’échange de connaissances université-communauté dans les domaines de l’information</a></strong><br>
         <i>Luanne Sinnamon, Julia Bullard, Kristina McDavid, Melissa Nelson, Heather O'Brien, and Samantha Snodgrass</i>
@@ -225,7 +233,8 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
     <td><strong><a href="https://www.acsi2024.ca/talk/18.Bourgard/">La rédaction durable de Wikipédia et la profession de bibliothécaire : analyse des modèles d'édition des participants à 1Lib1Ref</a></strong><br>
         <i>Erin Bourgard</i>
   </td>
-    <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Des sauts et des trébuchements II</a></td>
+    <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Des sauts et des trébuchements II</a><br>
+        <i>Modérateur: Jenna Hartel</i></td>
     <td>3:00pm - 3:30pm</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/19.Olsson/">Saut quantique : les architectures de pratique comme outil conceptuel dans la recherche sur les pratiques de l'information</a></strong><br>
         <i>Michael Olsson</i>
