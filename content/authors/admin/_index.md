@@ -151,7 +151,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
     <td>  
   </td>
     <td>5:30pm - 6:00pm</td>
-    <td><strong><a href="https://www.acsi2024.ca/talk/12.Granikov/">Apprendre ensemble à réfléchir de manière critique à l'information sur la santé : une étude de cas participative en cours</a></strong><br>
+    <td><strong><a href="https://www.acsi2024.ca/talk/12.Granikov/">Apprendre ensemble à réfléchir de manière critique à l'information sur la santé : une étude de cas participative en cours</a></strong>&#x2b50;<br>
         <i>Vera Granikov and Liz Perrin</i>
   </td> 
   </tr> 
@@ -243,7 +243,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   </tr>  
      <tr>  
     <td>4:00pm - 4:30pm</td>
-    <td><strong><a href="https://www.acsi2024.ca/talk/22.Martel/">Engagement des bibliothèques publiques et scolaires : Étude de cas multiples en littératie communautaire</a></strong><br>
+    <td><strong><a href="https://www.acsi2024.ca/talk/22.Martel/">Engagement des bibliothèques publiques et scolaires : Étude de cas multiples en littératie communautaire</a></strong>&#x2b50;<br>
         <i>Marie D. Martel, Christine Dufour and Nathalie Lacelle</i>
   </td>
     <td>4:00pm - 4:10pm</td>
@@ -258,7 +258,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   <tr>
   <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Information & Politque</a></td>
     <td>5:00pm - 5:30pm</td>
-    <td><strong><a href="https://www.acsi2024.ca/talk/24.Smith/">Des avancées dans l'accès et la réutilisation des médias : codes de bonnes pratiques en matière de droits d'auteur</a></strong><br>
+    <td><strong><a href="https://www.acsi2024.ca/talk/24.Smith/">Des avancées dans l'accès et la réutilisation des médias : codes de bonnes pratiques en matière de droits d'auteur</a></strong>&#x2b50;<br>
         <i>Christine Smith, Rumi Graham and Eva Revitt</i>
   </td>
     <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Les archives</a></td>
@@ -326,7 +326,7 @@ Connexions et collaborations : les archives et communautés indépendantes queer
 
   <tr> 
     <td>11:40am - 12:10pm</td>
-    <td><strong><a href="https://www.acsi2024.ca/talk/32.Ayeni/">Des sauts et des trébuchements dans l’application des technologies de traduction à la communication scientifique</a></strong><br>
+    <td><strong><a href="https://www.acsi2024.ca/talk/32.Ayeni/">Des sauts et des trébuchements dans l’application des technologies de traduction à la communication scientifique</a></strong>&#x2b50;<br>
         <i>Philips Ayeni, Emanuel Kulczycki and Lynne Bowker</i>
   </td>
   </tr>
@@ -384,7 +384,7 @@ Connexions et collaborations : les archives et communautés indépendantes queer
       
   <tr>
     <td colspan=2>3:30pm - 4:00pm</td>
-    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/39.Suzuki/">Explorer l'intersection de la création d'espaces numériques et des sciences de l'information dans les villes intelligentes</a></strong><br>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/39.Suzuki/">Explorer l'intersection de la création d'espaces numériques et des sciences de l'information dans les villes intelligentes</a></strong>&#x2b50;<br>
         <i>Takayuki Suzuki, Andrew Dillon and Kenneth R. Fleischmann</i>
   </tr>
       
