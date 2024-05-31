@@ -346,7 +346,7 @@ Connexions et collaborations : les archives et communautés indépendantes queer
   <tr>
     <td colspan=2 rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Education</i></td>
     <td colspan=2>12:50pm - 1:20pm</td>
-    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/34.Hangauer/">Conceptualisation de la perspicacité pour l'étude du comportement informationnel des doctorants</a></strong><br>
+    <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/34.Hangauer/">Conceptualiser la perspicacité pour l’étude de l’utilisation de l’information des doctorants</a></strong><br>
         <i>Kelly Hangauer</i>
   </tr>
       
