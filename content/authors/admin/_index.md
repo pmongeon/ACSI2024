@@ -270,7 +270,8 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
     <td><strong><a href="https://www.acsi2024.ca/talk/24.Smith/">Des avancées dans l'accès et la réutilisation des médias : codes de bonnes pratiques en matière de droits d'auteur</a></strong>&#x2b50;<br>
         <i>Christine Smith, Rumi Graham and Eva Revitt</i>
   </td>
-    <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Les archives</a></td>
+    <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Les archives</a><br>
+        <i>Modérateur: Hannah Turner</i></td>
     <td>5:00pm - 5:30pm</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/25.Day/">
 Connexions et collaborations : les archives et communautés indépendantes queer de Nouvelle-Zélande et les institutions GLAMU</a></strong><br>
@@ -313,7 +314,8 @@ Connexions et collaborations : les archives et communautés indépendantes queer
   </tr>
   
   <tr>
-  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Séance de panel V </a> </i></td>
+  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Séance de panel V </a><br>
+        <i>Modérateur: Azhagu Meena</i></td>
   </td>
     <td rowspan=4>11:00am - 12:30pm</td>
     <td rowspan=4><strong><a href="https://www.acsi2024.ca/talk/Panel5/">Théorie de l'information psychédélique : une exploration systématique de l'information au cours d'une conscience altérée</a></strong><br>
@@ -353,7 +355,8 @@ Connexions et collaborations : les archives et communautés indépendantes queer
   </tr>
   
   <tr>
-    <td colspan=2 rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Education</i></td>
+    <td colspan=2 rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Education</a><br>
+        <i>Modérateur: Katie Crossman</i></td>
     <td colspan=2>12:50pm - 1:20pm</td>
     <td colspan=2><strong><a href="https://www.acsi2024.ca/talk/34.Hangauer/">Conceptualiser la perspicacité pour l’étude de l’utilisation de l’information des doctorants</a></strong><br>
         <i>Kelly Hangauer</i>
