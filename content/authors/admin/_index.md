@@ -314,24 +314,17 @@ Connexions et collaborations : les archives et communautés indépendantes queer
   </tr>
   
   <tr>
-  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Séance de panel V </a><br>
+  <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Séance de panel V </a><br>
         <i>Modérateur: Azhagu Meena</i></td>
   </td>
-    <td rowspan=4>11:00am - 12:30pm</td>
-    <td rowspan=4><strong><a href="https://www.acsi2024.ca/talk/Panel5/">Théorie de l'information psychédélique : une exploration systématique de l'information au cours d'une conscience altérée</a></strong><br>
+    <td rowspan=3>11:00am - 12:30pm</td>
+    <td rowspan=3><strong><a href="https://www.acsi2024.ca/talk/Panel5/">Théorie de l'information psychédélique : une exploration systématique de l'information au cours d'une conscience altérée</a></strong><br>
         <i>Jenna Hartel, James L. Kent, Tim Gorichanaz and Keith Munro</i>
   </td>
     <td rowspan=4> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Communication Savante</a>
     <td>11:00am - 11:30am</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/30.Demers/">Exploration de techniques de fouille de textes pour la création d'ontologies afin d'assister la synthèse des connaissances scientifiques</a></strong><br>
         <i>Camille Demers and Dominic Forest</i>
-  </td>
-  </tr>
-  
-  <tr> 
-    <td>11:30am - 11:40am</td>
-    <td><strong><a href="https://www.acsi2024.ca/talk/31.Zhu/">Ce qui nous manque lorsque nous citons exclusivement en anglais : le cas des sources en langue chinoise</a></strong><br>
-        <i>Yating Zhu and Keren Dali</i>
   </td>
   </tr>
 
