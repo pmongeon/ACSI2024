@@ -46,7 +46,7 @@ Pour le 52e congrès annuel de l'ACSI, nous invitons les recherches qui proposen
   </tr>
   <tr>
     <td colspan=2>Pause</td>
-    <td colspan=4>2:45pm - 1:15pm</td>
+    <td colspan=4>12:45pm - 1:15pm</td>
   </tr>
   
   <tr>
