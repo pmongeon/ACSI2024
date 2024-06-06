@@ -321,7 +321,7 @@ Connexions et collaborations : les archives et communautés indépendantes queer
     <td rowspan=3><strong><a href="https://www.acsi2024.ca/talk/Panel5/">Théorie de l'information psychédélique : une exploration systématique de l'information au cours d'une conscience altérée</a></strong><br>
         <i>Jenna Hartel, James L. Kent, Tim Gorichanaz and Keith Munro</i>
   </td>
-    <td rowspan=4> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Communication Savante</a>
+    <td rowspan=3> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Communication Savante</a>
     <td>11:00am - 11:30am</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/30.Demers/">Exploration de techniques de fouille de textes pour la création d'ontologies afin d'assister la synthèse des connaissances scientifiques</a></strong><br>
         <i>Camille Demers and Dominic Forest</i>
@@ -329,14 +329,14 @@ Connexions et collaborations : les archives et communautés indépendantes queer
   </tr>
 
   <tr> 
-    <td>11:40am - 12:10pm</td>
+    <td>11:30am - 12:00pm</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/32.Ayeni/">Des sauts et des trébuchements dans l’application des technologies de traduction à la communication scientifique</a></strong>&#x2b50;<br>
         <i>Philips Ayeni, Emanuel Kulczycki and Lynne Bowker</i>
   </td>
   </tr>
   
   <tr> 
-    <td>12:10pm - 12:20pm</td>
+    <td>12:00pm - 12:10pm</td>
     <td><strong><a href="https://www.acsi2024.ca/talk/33.Poitras/">La comparaison des systèmes de classification des disciplines: approches et considérations</a></strong><br>
         <i>Constance Poitras and Anton Boudreau Ninkov</i>
   </td>
